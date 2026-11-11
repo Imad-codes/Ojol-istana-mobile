@@ -1,0 +1,6 @@
+{
+  "name": "Ojek Online Istana - Sistem Mobilitas Kedinasan",
+  "description": "Platform transportasi kedinasan internal dengan pemantauan real-time untuk Pengguna, Driver, dan Administrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
